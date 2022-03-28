@@ -1,0 +1,23 @@
+/* container */
+.container {
+  width: 320px;
+  margin: 50px auto;
+  box-shadow: 1px 1px 20px gray;
+  padding: 20px 10px;
+}
+/* header */
+.header {
+  text-align: center;
+  padding-bottom: 5px;
+}
+.header > h1 {
+  margin: 0;
+  color: #168aad;
+}
+
+/* content */
+.content {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+}
